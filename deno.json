@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@cardano-ogmios/client": "npm:@cardano-ogmios/client@^6.11.2",
+    "@cardano-ogmios/schema": "npm:@cardano-ogmios/schema@^6.11.2",
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
