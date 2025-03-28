@@ -1,6 +1,6 @@
 # overview
 
-Uses cardano scan and ogmois to pull cardano blocks in json form
+Uses cardanoscan and ogmois to pull cardano blocks in json form
 
 # usage
 
